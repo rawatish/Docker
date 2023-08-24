@@ -1,0 +1,8 @@
+#Overview:
+
+While working with docker we often need to run it in interactive mode. This is where we attach the Standard Input, Standard Output or error stream of our terminal to the container.
+
+#Running a container in different modes:
+a) Default Mode
+b) Interactive Mode
+c) Detached Mode
